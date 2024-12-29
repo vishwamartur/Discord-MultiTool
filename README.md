@@ -11,7 +11,7 @@
 -->
 
 > [!NOTE]
-> Supports: Windows 10, 11 [Other Versions untested]<br>
+> Supports: Windows 10, 11, Linux [Other Versions untested]<br>
 > Fully request based, i will not add selfbot support using discord.py-self etc<br>
 > Star the Repo for more amazing Updates in the Future.<br>
 > Make sure that you have `VirtualTerminalLevel` set to `1` for the best experience. --> [Tutorial](https://www.youtube.com/watch?v=HeJOyEw3RtM)<br>
@@ -32,7 +32,7 @@
 > 
 > 2. **For Source Code:**
 >    - Ensure [Python](https://www.python.org/downloads/) 3.10 or later is installed on your system.
->    - Run `setup.bat` to install the required libraries.
+>    - Run `setup.bat` (Windows) or `setup.sh` (Linux) to install the required libraries.
 >    - After that's done, run `schuh.py`
 > 
 > 3. **For Executable (exe):**
